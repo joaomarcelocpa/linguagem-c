@@ -4,5 +4,5 @@ Nesse repositório apresentarei arquivos relacionados a disciplina de Algoritmos
 
 ## Tópicos:
 
-- Tópico 1: C
+- Tópico 1: Linguagem C
 
